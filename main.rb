@@ -1,5 +1,4 @@
-require 'dotenv/load'
-require 'mcp'
+require "mcp"
 
-name 'my_mcp_server'
-version '0.0.1'
+name "my_mcp_server"
+version "0.0.1"
